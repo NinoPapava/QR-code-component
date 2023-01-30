@@ -1,9 +1,5 @@
-# QR-code-component
-QR Code
-
 # Frontend - QR code component
 
-![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
 
