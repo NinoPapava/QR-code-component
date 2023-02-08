@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Clicker+Script&family=Poppins:ital,wght@0,100;0,400;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+   height: 100vh;
+   justify-content: center;
+   align-items: center;
+   background: #0D192C;
+   font-family: 'Poppins', sans-serif;
+}
+
+.container {
+    max-width: 350px;
+    width: 100%;
+    height: 596px;
+    background: #15263F;
+   box-shadow: 0px 25px 25px rgba(0, 0, 0, 0.0476518);
+    border-radius: 20px;
+    padding: 24px;
+}
+
+
+.container img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.container h1 {
+    padding-top: 24px;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 27.72px;
+    text-align: left;
+    letter-spacing: 1px;
+    color: #FFFFFF;
+}
+
+.container p {
+    padding-top: 16px;
+    padding-bottom: 24px;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 26px;
+    text-align: left;
+    letter-spacing: 1px;
+    color: #8BACD9;
+}
+
+div .info, div .info-clock
+{
+    display: inline;
+}
+
+div .info p1
+{
+    display: inline;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 20.16px;
+    color: #00FFF8;
+}
+
+div .info .eth 
+{
+    display: inline;
+}
+
+div .info-clock
+{
+    padding-left: 100px;
+    font-size: 16px;
+    line-height: 20px;
+    color: #8BACD9;
+}
+
+div .rect
+{
+   padding-top: 8px;
+}
+
+div .creation-img, div .creation-info
+{
+
+    display: inline;
+}
+
+div .creation-img .image
+{
+    
+    width: 33px;
+    height: 33px;
+}
+
+div .creation-info p4
+{
+    padding-left: 16px;
+    padding-top: 22px;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+div .creation-info p4 .creation
+{
+    color: #8BACD9;
+}
+
+div .creation-info p4 .fullName
+{
+    color: #FFFFFF;
+}
